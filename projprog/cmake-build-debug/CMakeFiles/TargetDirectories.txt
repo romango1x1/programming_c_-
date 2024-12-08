@@ -1,0 +1,3 @@
+C:/Users/evila/Desktop/C++/projprog/cmake-build-debug/CMakeFiles/projprog.dir
+C:/Users/evila/Desktop/C++/projprog/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/evila/Desktop/C++/projprog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
